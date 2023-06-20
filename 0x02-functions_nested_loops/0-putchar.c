@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main  - print _putchar
- * Desription:  prints _putchar, followed by a new line.
- * Return: always zero if code was success
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
  */
 
 int main(void)
